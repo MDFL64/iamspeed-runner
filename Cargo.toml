@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 codspeed-criterion-compat = "2.7.2"
-solution = { path = "../iamspeed", package = "iamspeed" }
+#solution = { path = "../iamspeed", package = "iamspeed" }
 
 [[bench]]
 name = "main"
